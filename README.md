@@ -17,13 +17,14 @@ It is a simple AngularJS 2 seed project. It includes following:
 
 # Usage
 
-- Install node dependencies. 
-    ```sh
+- Install node dependencies.
+
+  ```sh
     $   npm install
     ```
 - Install webpack, typescript and webpack server.
      ```sh
-        npm install -g webpack webpack-dev-server typescript
+    $   npm install -g webpack webpack-dev-server typescript
     ```
     
 - Start dev server
