@@ -12,7 +12,6 @@ It is a simple AngularJS 2 seed project. It includes following:
 # Prerequisite
 
 - NodeJS ( version 5+ )
-- NPM ( version 3+ )
 
 
 # Usage
